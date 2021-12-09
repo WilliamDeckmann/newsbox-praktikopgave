@@ -20,7 +20,7 @@
     &__figure {
         display: flex;
         align-items: center;
-        column-gap: 11px;
+        /* column-gap: 11px; */
     };
 
     &__button {
@@ -31,6 +31,7 @@
     &__icon {
         width: 35px;
         height: 35px;
+        margin-right: 11px;
         display: flex;
         justify-content: center;
         align-items: center;
